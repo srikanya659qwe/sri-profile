@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sri-profile/static/css/main.4c222a32.chunk.css",
+    "main.js": "/sri-profile/static/js/main.825744b4.chunk.js",
+    "main.js.map": "/sri-profile/static/js/main.825744b4.chunk.js.map",
+    "runtime-main.js": "/sri-profile/static/js/runtime-main.222a8c09.js",
+    "runtime-main.js.map": "/sri-profile/static/js/runtime-main.222a8c09.js.map",
+    "static/js/2.0fb5dc5e.chunk.js": "/sri-profile/static/js/2.0fb5dc5e.chunk.js",
+    "static/js/2.0fb5dc5e.chunk.js.map": "/sri-profile/static/js/2.0fb5dc5e.chunk.js.map",
+    "index.html": "/sri-profile/index.html",
+    "precache-manifest.c54b0af2b0e42787f0e218b90bb2c1e0.js": "/sri-profile/precache-manifest.c54b0af2b0e42787f0e218b90bb2c1e0.js",
+    "service-worker.js": "/sri-profile/service-worker.js",
+    "static/css/main.4c222a32.chunk.css.map": "/sri-profile/static/css/main.4c222a32.chunk.css.map",
+    "static/js/2.0fb5dc5e.chunk.js.LICENSE.txt": "/sri-profile/static/js/2.0fb5dc5e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.222a8c09.js",
+    "static/js/2.0fb5dc5e.chunk.js",
+    "static/css/main.4c222a32.chunk.css",
+    "static/js/main.825744b4.chunk.js"
+  ]
+}
