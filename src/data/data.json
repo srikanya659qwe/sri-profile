@@ -1,0 +1,43 @@
+{
+   "profiles":[
+        {
+            "basicInformation": {
+                "name" : "Srikanya T",
+                "role" : "Trainer Cum Developer",
+                "email" : "srikanya.t@apssdc.in",
+                "mobile": "+91 8790700295"
+            },
+            "education":[
+                
+                {
+                    "degree":"Graduation",
+                    "institution":"Computer Science from AP-IIIT Nuzvid in 2015 – 2019"
+                },
+                {
+                    "degree":"PUC",
+                    "institution":" MPC from AP-IIIT Nuzvid in 2013 - 2015"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "School Study's SSC from Z.P.H High School Garudabhadra in 2012-2013"
+                }
+            ],
+            "skill":[
+                {
+                    "t":"Web Technologies",
+                    "l":"HTML,CSS"
+                },
+                {
+                    "t":"Programming Languages",
+                    "l":"C,C++,Python,Java"
+                },
+                {
+                    "t":"Operating Systems",
+                    "l":"windows,Linux"
+                }
+         
+            ]
+        }
+        
+    ]
+}
